@@ -4,19 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Written by adam and uri ;
-
 namespace HomeWorkUriAdam
 {
-    class Program
+    class TnaiPashut
     {
-        static void Main(string[] args)
-        {
-         
-
-        }
-
-
-
     }
 }
