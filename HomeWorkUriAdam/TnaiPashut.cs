@@ -8,108 +8,113 @@ namespace HomeWorkUriAdam
 {
     class TnaiPashut
     {
-        //TODO : remove // to start
-
-        //ex1();
-        /*  
+      //  static void Main(string[] args)
+     //   {
 
 
-            enter number
-            50
-            small
-            Press any key to continue . . .
+            //Tnaipashut
 
-        */
+            //TODO : remove // to start
 
-        //ex2();
-
-        /*  
-           enter number
-           30
-           many
-           Press any key to continue . . .
-
-          */
-
-        //ex3();
-
-        /*  
-           enter a number
-           34
-           positive
-           Press any key to continue . . .
-
-          */
-        //ex4();
-
-        /*  
-           enter two numbers
-           34
-           54
-           number 2 is the bigger
-           Press any key to continue . . .
-
-          */
-        //ex5();
-
-        /*  
-          enter price of shirt
-          93
-          enter price of pants
-          94
-          the shirt is good
-          dumbass pants
-          Press any key to continue . . .
-
-          */
+            ex1();
+            /*  
 
 
-        //ex6();
+                enter number
+                50
+                small
+                Press any key to continue . . .
 
-        /*      
-          enter two numbers
-          90
-          49
-          90 BIG
-          49 SMALL
-          Press any key to continue . . .
+            */
 
-          */
-        //ex7();
+            //ex2();
 
-        /*  
-           enter number
-          90
-          900
-           Press any key to continue . . .
+            /*  
+               enter number
+               30
+               many
+               Press any key to continue . . .
 
-          */
-        //ex8();
+              */
 
-        /*  
-           enter number
-           4
-           2
-           5
-           5
-            Press any key to continue . . .
+            //ex3();
 
-          */
-        //ex9();
+            /*  
+               enter a number
+               34
+               positive
+               Press any key to continue . . .
 
-        /*  
-          enter how many boys in your class
-          23
-          enter how many girls in your class
-          54
-          great
-          Press any key to continue . . .
+              */
+            //ex4();
 
-          */
+            /*  
+               enter two numbers
+               34
+               54
+               number 2 is the bigger
+               Press any key to continue . . .
+
+              */
+            //ex5();
+
+            /*  
+              enter price of shirt
+              93
+              enter price of pants
+              94
+              the shirt is good
+              dumbass pants
+              Press any key to continue . . .
+
+              */
 
 
-        //טענת כניסה: הפונק' לא מקבלת כלום
-        //  טענת יציאה: לא מחזירה
+            //ex6();
+
+            /*      
+              enter two numbers
+              90
+              49
+              90 BIG
+              49 SMALL
+              Press any key to continue . . .
+
+              */
+            //ex7();
+
+            /*  
+               enter number
+              90
+              900
+               Press any key to continue . . .
+
+              */
+            //ex8();
+
+            /*  
+               enter number
+               4
+               2
+               5
+               5
+                Press any key to continue . . .
+
+              */
+            //ex9();
+
+            /*  
+              enter how many boys in your class
+              23
+              enter how many girls in your class
+              54
+              great
+              Press any key to continue . . .
+
+              */
+            //טענת כניסה: הפונק' לא מקבלת כלום
+            //  טענת יציאה: לא מחזירה
+   //     }
         public static void ex1()
         {
             //
@@ -296,6 +301,7 @@ namespace HomeWorkUriAdam
             {
                 Console.WriteLine("idial");
             }
+
         }
     }
 }
