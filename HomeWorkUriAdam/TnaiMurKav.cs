@@ -8,6 +8,11 @@ namespace HomeWorkUriAdam
 {
     class TnaiMurKav
     {
+        //  static void Main(string[] args)
+        //    {
+
+
+        //  TNAIMURKAV
         //TODO : remove // to start
         //ex1();
         /*  
@@ -71,10 +76,7 @@ namespace HomeWorkUriAdam
           780
           Press any key to continue . . .
           */
-
-
-
-
+        //   }
         public static void ex1()
         {
             int num1, num2, num3;//אורך צלעות
@@ -244,7 +246,8 @@ namespace HomeWorkUriAdam
                 Console.WriteLine((40 * 12) + (15 * (hours - 40)));
             }
 
-        }
-    }
 
+        }
+
+    }
 }
