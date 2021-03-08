@@ -110,11 +110,11 @@ namespace HomeWorkUriAdam
               54
               great
               Press any key to continue . . .
-
               */
             //טענת כניסה: הפונק' לא מקבלת כלום
             //  טענת יציאה: לא מחזירה
    //     }
+
         public static void ex1()
         {
             //
